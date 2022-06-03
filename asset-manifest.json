@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tercercorte/static/css/main.ec766793.css",
+    "main.js": "/tercercorte/static/js/main.374a6fb1.js",
+    "index.html": "/tercercorte/index.html",
+    "main.ec766793.css.map": "/tercercorte/static/css/main.ec766793.css.map",
+    "main.374a6fb1.js.map": "/tercercorte/static/js/main.374a6fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec766793.css",
+    "static/js/main.374a6fb1.js"
+  ]
+}
